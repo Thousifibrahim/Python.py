@@ -6,7 +6,7 @@ This is my collection of Python learning materials organized as Jupyter notebook
 ## The Learning Path (Follow This Order!)
 
 Here's how I've organized everything - just go through these files one by one:
-
+#
 ### **Phase 1: Getting Started**
 📝 **00-Topic-in-Python.**  
 *Start here!* Quick intro to Python, how notebooks work, and what we're going to learn.
