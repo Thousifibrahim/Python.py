@@ -1,0 +1,11 @@
+excellent in programming using 
+control statements and functions 
+
+Good knowledge on oops concepts
+
+solid knowledge on concepts like slicing,
+
+*make the below points as 2 points by giving good prefix like proficient/versatile/good etc*
+lambda,map,filter
+handling file and exceptions,comprehension,
+decorator ,regex, 

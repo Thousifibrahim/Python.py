@@ -1,0 +1,32 @@
+C:\Users\thous\OneDrive\Desktop\Qspi\python\Important Program an practice
+
+
+Simple selector :
+To target the element based on the Clases /id's / tagname we have basic selector 
+they are :
+ tag name : To target the element based on the tagname itself we have to use tagname selector
+
+Grouping : to target multiple elements at a time , Whenever we need to pass similar properties for multiple elements we can use a grouping selector 
+ the symbol used to combine all elemn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------
+
+
+Combinotor selector :
+It is a combination of 2 simple selectors
+based on the relation between 2 elements the CSS will target the elements
+they are :
+   
